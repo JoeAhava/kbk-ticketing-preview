@@ -1,0 +1,171 @@
+{
+	"project_info": {
+		"project_number": "1096553444416",
+		"firebase_url": "https://selfe-ticketing.firebaseio.com",
+		"project_id": "selfe-ticketing",
+		"storage_bucket": "selfe-ticketing.appspot.com"
+	},
+	"client": [
+		{
+			"client_info": {
+				"mobilesdk_app_id": "1:1096553444416:android:7cda256e6d0a83560b1ba5",
+				"android_client_info": {
+					"package_name": "com.kbktech.selfe"
+				}
+			},
+			"oauth_client": [
+				{
+					"client_id": "1096553444416-2jnlot3ld1tk7oq890gv8s3prl42658a.apps.googleusercontent.com",
+					"client_type": 1,
+					"android_info": {
+						"package_name": "com.kbktech.selfe",
+						"certificate_hash": "b3ac08cb2bcd08a95dcf49a419a3482bb200f839"
+					}
+				},
+				{
+					"client_id": "1096553444416-4cv0c3vl47bbdbjekb38dcbt3otidgjk.apps.googleusercontent.com",
+					"client_type": 1,
+					"android_info": {
+						"package_name": "com.kbktech.selfe",
+						"certificate_hash": "fc2cbf42a8bf41b0a447687d851587c18bc7a3b8"
+					}
+				},
+				{
+					"client_id": "1096553444416-4e6ta6kd2qji1afd6o03on31lp1p328m.apps.googleusercontent.com",
+					"client_type": 1,
+					"android_info": {
+						"package_name": "com.kbktech.selfe",
+						"certificate_hash": "bd5fa1c2caf1d156d3dac909818ebe5c42fb7ede"
+					}
+				},
+				{
+					"client_id": "1096553444416-7tmov4k98uk687231ghh3ibqnc95psus.apps.googleusercontent.com",
+					"client_type": 1,
+					"android_info": {
+						"package_name": "com.kbktech.selfe",
+						"certificate_hash": "d69a2412b7a509d0747d18a5603f97f2ad2516c1"
+					}
+				},
+				{
+					"client_id": "1096553444416-ci3cbcg9u0rlrdi84u632hqet9br0t42.apps.googleusercontent.com",
+					"client_type": 1,
+					"android_info": {
+						"package_name": "com.kbktech.selfe",
+						"certificate_hash": "a191df12b02d8cfadb5360a4ae2a1f671574d4d3"
+					}
+				},
+				{
+					"client_id": "1096553444416-gkrgav6it9qgvd446bc1tmkpbtk2cb6i.apps.googleusercontent.com",
+					"client_type": 1,
+					"android_info": {
+						"package_name": "com.kbktech.selfe",
+						"certificate_hash": "5c36afbeef036b3b860d020bed3d52b7f1c8a8c8"
+					}
+				},
+				{
+					"client_id": "1096553444416-ib6nfeaeeq1v8ltouon3ga7rkijfffpj.apps.googleusercontent.com",
+					"client_type": 1,
+					"android_info": {
+						"package_name": "com.kbktech.selfe",
+						"certificate_hash": "7a2cb41e17305d4ad04f72ff90c47721a29b1fc8"
+					}
+				},
+				{
+					"client_id": "1096553444416-jdtr72gp2ghh3lh0ubkoskgor7c8nss0.apps.googleusercontent.com",
+					"client_type": 1,
+					"android_info": {
+						"package_name": "com.kbktech.selfe",
+						"certificate_hash": "463fabbcec3e7c4de8a7d8ac030a672716e20345"
+					}
+				},
+				{
+					"client_id": "1096553444416-l5pspqjp729i6klg0cd97pn4h26v1gkf.apps.googleusercontent.com",
+					"client_type": 1,
+					"android_info": {
+						"package_name": "com.kbktech.selfe",
+						"certificate_hash": "025725e961da2bcf40fe36ca31bc325a2dbd1757"
+					}
+				},
+				{
+					"client_id": "1096553444416-m3c38edts1hp4mhloj4ibj62af8htskm.apps.googleusercontent.com",
+					"client_type": 1,
+					"android_info": {
+						"package_name": "com.kbktech.selfe",
+						"certificate_hash": "23ed0a71c844f70f9e323afa2847eb104b3c5829"
+					}
+				},
+				{
+					"client_id": "1096553444416-mlv0sh8fnceb5glhlbpfon2nparat14j.apps.googleusercontent.com",
+					"client_type": 3
+				}
+			],
+			"api_key": [
+				{
+					"current_key": "AIzaSyC6VbagOY_309vpnsLDlBquJhKeQjt0CYI"
+				}
+			],
+			"services": {
+				"appinvite_service": {
+					"other_platform_oauth_client": [
+						{
+							"client_id": "1096553444416-mlv0sh8fnceb5glhlbpfon2nparat14j.apps.googleusercontent.com",
+							"client_type": 3
+						},
+						{
+							"client_id": "1096553444416-0bhmr901s4oels186cki7n78oj5li491.apps.googleusercontent.com",
+							"client_type": 2,
+							"ios_info": {
+								"bundle_id": "com.kbktech.selfe"
+							}
+						}
+					]
+				}
+			}
+		},
+		{
+			"client_info": {
+				"mobilesdk_app_id": "1:1096553444416:android:978144b3499501e00b1ba5",
+				"android_client_info": {
+					"package_name": "com.kbktech.selfe.selfe_event_admin"
+				}
+			},
+			"oauth_client": [
+				{
+					"client_id": "1096553444416-3bf79m23tala1giqqad6vi6oketi66rd.apps.googleusercontent.com",
+					"client_type": 1,
+					"android_info": {
+						"package_name": "com.kbktech.selfe.selfe_event_admin",
+						"certificate_hash": "23ed0a71c844f70f9e323afa2847eb104b3c5829"
+					}
+				},
+				{
+					"client_id": "1096553444416-mlv0sh8fnceb5glhlbpfon2nparat14j.apps.googleusercontent.com",
+					"client_type": 3
+				}
+			],
+			"api_key": [
+				{
+					"current_key": "AIzaSyC6VbagOY_309vpnsLDlBquJhKeQjt0CYI"
+				}
+			],
+			"services": {
+				"appinvite_service": {
+					"other_platform_oauth_client": [
+						{
+							"client_id": "1096553444416-mlv0sh8fnceb5glhlbpfon2nparat14j.apps.googleusercontent.com",
+							"client_type": 3
+						},
+						{
+							"client_id": "1096553444416-0bhmr901s4oels186cki7n78oj5li491.apps.googleusercontent.com",
+							"client_type": 2,
+							"ios_info": {
+								"bundle_id": "com.kbktech.selfe"
+							}
+						}
+					]
+				}
+			}
+		}
+	],
+	"configuration_version": "1"
+}
